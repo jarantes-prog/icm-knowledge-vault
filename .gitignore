@@ -1,0 +1,8 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Obsidian local workspace cache (keep your own if you want; ignored by default)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
